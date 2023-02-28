@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.dance-bg {
+  background-color: #64748b;
+  height: 100%;
+  padding: 20px;
+  width: 70vw;
+}
+.main-bg {
+  display: flex;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.head {
+  font-size: 25px;
+  margin-left: 40px;
+  color: white;
+}
+.results-bg {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  padding-left: 60px;
+  width: 30vw;
+  padding-top: 0px;
+  align-items: center;
+}
